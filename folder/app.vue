@@ -31,7 +31,7 @@ export default {
   data(){
   	return {
   		fileList: [],
-  		param: {identity: '410184199203061254', isUpdate: '0'},
+  		param: {param1: '', param2: ''},
   	}
   },
   methods: {
